@@ -24,6 +24,4 @@ function factorialize() {
     }
     factorRes.innerHTML = `${product}`
    }
-   
-   console.log(factorialize(5));
-    
+  
